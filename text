@@ -1,0 +1,9 @@
+!#/bin/bash
+
+echo "Ip is an unique number given to devices on network in order to communicate with each other"
+echo " DNS is Domain Name System coverts domain name into ip address"
+echo " http is hyper text transfer protocol used to transfer data over internet
+       https is a secured version of http which  encryption data between client and server"
+echo "port number is commmunicaton endpoint used by applicatons"
+
+
